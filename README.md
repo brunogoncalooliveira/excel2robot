@@ -6,4 +6,4 @@ I've made this because I wanted to maintain a robot test file with json test cas
 
 python convert_to_robot.py excelfile.xlsx testfile.robot
 
-[<img src="https://github.com/brunogoncalooliveira/excel2robot/blob/master/sample.jpg" align="right">]
+<img src="https://github.com/brunogoncalooliveira/excel2robot/blob/master/sample.jpg" align="right">
